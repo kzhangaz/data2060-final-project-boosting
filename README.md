@@ -2,10 +2,10 @@
 Authors: Wendi Liao, Yicheng Lu, Xuetong Tang, Ke Zhang
 
 ## Package Versions
-Python: 3.10.1
-scikit-learn: 1.5.1
-NumPy: 2.0.1
-pandas: 2.2.2
+Python: 3.10.1,
+scikit-learn: 1.5.1,
+NumPy: 2.0.1,
+pandas: 2.2.2,
 seaborn: 0.13.2
 
 ## Overview of AdaBoost
