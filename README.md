@@ -1,4 +1,12 @@
 # AdaBoost (Adaptive Boosting)
+Authors: Wendi Liao, Yicheng Lu, Xuetong Tang, Ke Zhang
+
+## Package Versions
+Python: 3.10.1
+scikit-learn: 1.5.1
+NumPy: 2.0.1
+pandas: 2.2.2
+seaborn: 0.13.2
 
 ## Overview of AdaBoost
 AdaBoost (Adaptive Boosting) is an ensemble learning algorithm that combines multiple weak classifiers to build a strong classifier. It is particularly effective for binary classification problems, but it can also be adapted to multi-class tasks. The main idea is to sequentially train weak learners, typically decision stumps, by focusing on the misclassified samples from previous rounds. In each iteration, misclassified samples are given higher weights to ensure the next classifier focuses more on the challenging cases.
